@@ -1,1 +1,1 @@
-**www.firewolf.ml
+www.firewolf.ml
