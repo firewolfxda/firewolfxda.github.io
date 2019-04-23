@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: firewolf.ml
+Token: 92a8511a0c8cf9dae372b3d846b99d224e7828bd686fb6d0faa7f04170df2b5f
